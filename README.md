@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for an opportunity as a Full stack Developer! 
 
-- 🎓 I'm recently graudated from Douglas College in Computer Studies Information System Deploma 
+- 🎓 I'm recently graudated from Douglas College in Computing Studies Information System Deploma 
 
 - 📫 How to reach me **jeonginjoy@gmail.com**
 
